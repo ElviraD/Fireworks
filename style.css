@@ -1,0 +1,8 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#fireworks {
+	display: block;
+	background: #123;
+}
